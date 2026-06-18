@@ -4,13 +4,13 @@ Machine Learning-Based Housing Pricing Recommendation System
 A full ML pipeline built with Scikit-Learn to recommend fair housing prices using historical market trends. The project includes data preprocessing, feature engineering, model training, hyperparameter tuning, and model evaluation wrapped inside an end-to-end Scikit-Learn pipeline. Ideal for buyers and sellers looking to estimate realistic housing values.
 
 
-# 🏡 Machine Learning-Based Housing Pricing Recommendation System
+#  Machine Learning-Based Housing Pricing Recommendation System
 
 A machine learning project designed to assist **home buyers and sellers** in identifying **fair market prices** based on historical housing data. The project uses **Scikit-Learn pipelines** to build a clean, modular, and efficient ML workflow—from preprocessing to prediction.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Housing prices depend on multiple factors such as location, size, number of rooms, economic conditions, and historical trends.  
 This project builds an end-to-end ML recommendation system that:
@@ -23,7 +23,7 @@ This project builds an end-to-end ML recommendation system that:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Pandas / NumPy**
@@ -33,7 +33,7 @@ This project builds an end-to-end ML recommendation system that:
 
 ---
 
-## 📊 Features
+##  Features
 
 ✔ End-to-end Scikit-Learn pipeline  
 ✔ Automated preprocessing (encoding, scaling, missing data handling)  
