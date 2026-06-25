@@ -157,6 +157,9 @@ The following regression models are trained:
 - Ensemble learning method
 - Best performing model
 
+<img width="872" height="291" alt="image" src="https://github.com/user-attachments/assets/64af6d26-2e67-4e52-ae8d-12957ee62447" />
+
+
 ---
 
 ##  Model Evaluation
